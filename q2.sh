@@ -7,5 +7,5 @@ touch $name/"name$"3.cpp
 touch $name/"name$"4.cpp
 touch $name/"name$"5.cpp
 echo "Respected Sir/madam, Your Folder has been created"
-echo "Your file has been created"
+echo "Your file has been created from next time please try to do it on your own. Have a good day."
 
